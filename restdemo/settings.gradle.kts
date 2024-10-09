@@ -1,1 +1,1 @@
-rootProject.name = "webdemo"
+rootProject.name = "restdemo"
